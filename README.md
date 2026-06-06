@@ -38,9 +38,10 @@ No basic "todo app" tutorials here — we're handling multi-layered state, stric
 
 ### 1. Clone the playground
 
-git clone [https://github.com/akerS4I/Productivity-Dashboard.git](https://github.com/akerS4I/Productivity-Dashboard.git)
-2. Grab the dependencies
-Bash
+- git clone [https://github.com/akerS4I/Productivity-Dashboard.git](https://github.com/akerS4I/Productivity-Dashboard.git)
+
+- Grab the dependencies
+
 cd Productivity-Dashboard
 pnpm install
 3. Fire up the dev server
