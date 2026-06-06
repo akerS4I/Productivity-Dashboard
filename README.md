@@ -1,8 +1,6 @@
-# Productivity Dashboard ~ 🛠️⚡
+# Productivity Dashboard by AKER
 
-A full-fledged task engine and workspace manager built to shake off the rust, flex some serious TypeScript architecture, and lock in a front-end role this summer.  
-
-No basic "todo app" tutorials here — we're handling multi-layered state, strict typing boundaries, and real data persistence. Simple tasks? Sure, I'll clear them out for you, but this codebase is built to scale.
+A full-fledged task engine and workspace manager built to shake off the rust.
 
 ---
 
@@ -21,7 +19,7 @@ No basic "todo app" tutorials here — we're handling multi-layered state, stric
 - **Vite:** Blazing fast HMR ~ because life is too short to watch Webpack compile.
 - **pnpm:** Pure efficiency. Zero disk space wasted.
 - **React + TS:** Strict mode enabled. No `any` allowed here.
-- **Styling:** *TBD — weighing options between raw utility or clean components.*
+- **Styling:** *TBD - weighing options between raw utility or clean components.*
 
 ---
 
@@ -38,14 +36,15 @@ No basic "todo app" tutorials here — we're handling multi-layered state, stric
 
 ### 1. Clone the playground
 
-- git clone [https://github.com/akerS4I/Productivity-Dashboard.git](https://github.com/akerS4I/Productivity-Dashboard.git)
+git clone [https://github.com/akerS4I/Productivity-Dashboard.git](https://github.com/akerS4I/Productivity-Dashboard.git)
 
-- Grab the dependencies
+### 2. Grab the dependencies
 
 cd Productivity-Dashboard
 pnpm install
-3. Fire up the dev server
-Bash
+
+### 3. Fire up the dev server
+
 pnpm dev
 
 > "polishing those coding skills so I can build smth actually exciting in the future :P"
