@@ -38,17 +38,13 @@ No basic "todo app" tutorials here — we're handling multi-layered state, stric
 
 ### 1. Clone the playground
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/todo-ts-refresh.git
-
-### 2. Grab the dependencies
-
-cd todo-ts-refresh
+git clone [https://github.com/akerS4I/Productivity-Dashboard.git](https://github.com/akerS4I/Productivity-Dashboard.git)
+2. Grab the dependencies
+Bash
+cd Productivity-Dashboard
 pnpm install
-
-### 3. Fire up the dev server
-
+3. Fire up the dev server
+Bash
 pnpm dev
-
----
 
 > "polishing those coding skills so I can build smth actually exciting in the future :P"
