@@ -1,6 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import type { Task } from "./types";
+// importing shadcn/ui components
 import { ThemeProvider } from "@/components/theme-provider";
 import {
   Card,
@@ -62,10 +63,11 @@ function App() {
       case "low":
         return "secondary";
       default:
-        return "ghost";
+        return "ghost"; 
     }
   };
   return (
+    // semi-custom theme-provider(dark/light) for the app
     <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
       <>
         <h1 className="mt-5 text-center text-4xl font-extrabold tracking-tight text-balance">
@@ -91,3 +93,4 @@ function App() {
 }
 
 export default App;
+
